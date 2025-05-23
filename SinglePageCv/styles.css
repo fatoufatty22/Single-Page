@@ -1,0 +1,31 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family:"Quicksand", sans-serif;
+  text-align: center;
+  background-color: lightpink;
+  
+}
+
+
+
+
+h3{
+  color:lightpink;
+}
+.education{
+  color:black;
+  font-weight: bold;
+}
+.experience p{
+  color:blueviolet;
+  font-weight: bold;
+}
+footer{
+  background-color: hotpink;
+  height: 120px;
+  width: 100%;
+  justify-content: center;
+  padding-top:20px;
+}
